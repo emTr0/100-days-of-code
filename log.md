@@ -26,3 +26,5 @@
 6. [Animate Elements At Variable Rates](https://www.freecodecamp.org/challenges/animate-elements-at-variable-rates)
 7. [Animate Multiple Elements At Variable Rates](https://www.freecodecamp.org/challenges/animate-multiple-elements-at-variable-rates)
 8. [Change Animation Timing with Keywords](https://www.freecodecamp.org/challenges/change-animation-timing-with-keywords)
+
+Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
