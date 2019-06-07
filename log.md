@@ -28,3 +28,23 @@
 8. [Change Animation Timing with Keywords](https://www.freecodecamp.org/challenges/change-animation-timing-with-keywords)
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
+
+### Day 2: June  6, Thursday
+
+**Today's Progress:** I completed 10 challenges in freeCodeCamp.
+
+**Thoughts:** Today was difficult because I moved and was super tired. Once I was settled enough at my new place I sat down and worked through some of the challenges on freeCodeCamp. I kept dozing off. I'm glad I did it though! I really want to stick to this. I completed a few challenges yesterday but they didn't add up to an hour so I'm not counting them.
+
+**Link(s) to work:**
+1. [Know When Alt Text Should Be Left Blank](https://www.freecodecamp.org/challenges/know-when-alt-text-should-be-left-blank)
+2. [Jump Straight To the Content Using the Main Element](https://www.freecodecamp.org/challenges/jump-straight-to-the-content-using-the-main-element)
+3. [Wrap Content In the Article Element](https://www.freecodecamp.org/challenges/wrap-content-in-the-article-element)
+4. [Make Screen Reader Navigation Easier with the Header Landmark](https://www.freecodecamp.org/challenges/make-screen-reader-navigation-easier-with-the-header-landmark)
+5. [Make Screen Reader Navigation Easier with the Nav Landmark](https://www.freecodecamp.org/challenges/make-screen-reader-navigation-easier-with-the-nav-landmark)
+6. [Make Screen Reader Navigation Easier with the Footer Landmark](https://www.freecodecamp.org/challenges/make-screen-reader-navigation-easier-with-the-footer-landmark)
+7. [Improve Accessibility of Audio Content with the Audio Element](https://www.freecodecamp.org/challenges/improve-accessibility-of-audio-content-with-the-audio-element)
+8. [Improve Chart Accessibility with the Figure Element](https://www.freecodecamp.org/challenges/improve-chart-accessibility-with-the-figure-element)
+9. [Improve Form Field Accessibility with the Label Element](https://www.freecodecamp.org/challenges/improve-form-field-accessibility-with-the-label-element)
+10. [Wrap Radio Buttons In A Fieldset Element for Better Accessibility](https://www.freecodecamp.org/challenges/wrap-radio-buttons-in-a-fieldset-element-for-better-accessibility)
+
+Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
