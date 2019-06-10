@@ -9,7 +9,7 @@
 
 **Link to work:** 
 
-1. [Calculator App](http://www.example.com)
+1. []()
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
 -->
@@ -82,5 +82,36 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 20. [Apply the Flex Direction Property To Create A Column In the Tweet Embed](https://www.freecodecamp.org/challenges/apply-the-flex-direction-property-to-create-a-column-in-the-tweet-embed)
 21. [Align Elements Using the Justify Content Property](https://www.freecodecamp.org/challenges/align-elements-using-the-justify-content-property)
 22. [Use the Justify Content Property In the Tweet Embed](https://www.freecodecamp.org/challenges/use-the-justify-content-property-in-the-tweet-embed)
+
+Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
+
+### Day 4: June 9, Sunday 
+
+**Today's Progress:** I finished 20 challenges on freeCodeCamp.
+
+**Thoughts:** It was another tiring day moving the last few things from my old place to my new one. It was tough focusing since I'm so tired but I got some challenges done. I'm so close to finishing the Responsive Web Design Certification section of freeCodeCamp. After this, I think I'll start the web dev bootcamp course by Colt Steele. The grind continues!
+
+**Link to work:** 
+
+1. [Align Elements Using the Align Items Property](https://www.freecodecamp.org/challenges/align-elements-using-the-align-items-property)
+2. [Use the Align Items Property In the Tweet Embed](https://www.freecodecamp.org/challenges/use-the-align-items-property-in-the-tweet-embed)
+3. [Use the Flex Wrap Property To Wrap A Row Or Column](https://www.freecodecamp.org/challenges/use-the-flex-wrap-property-to-wrap-a-row-or-column)
+4. [Use the Flex Shrink Property To Shrink Items](https://www.freecodecamp.org/challenges/use-the-flex-shrink-property-to-shrink-items)
+5. [Use the Flex Grow Property To Expand Items](https://www.freecodecamp.org/challenges/use-the-flex-grow-property-to-expand-items)
+6. [Use the Flex Basis Property To Set the Initial Size of An Item](https://www.freecodecamp.org/challenges/use-the-flex-basis-property-to-set-the-initial-size-of-an-item)
+7. [Use the Flex Shorthand Property](https://www.freecodecamp.org/challenges/use-the-flex-shorthand-property)
+8. [Use the Order Property To Rearrange Items](https://www.freecodecamp.org/challenges/use-the-order-property-to-rearrange-items)
+9. [Use the Align Self Property](https://www.freecodecamp.org/challenges/use-the-align-self-property)
+10. [Create Your First Css Grid](https://www.freecodecamp.org/challenges/create-your-first-css-grid)
+11. [Add Columns with Grid Template Columns](https://www.freecodecamp.org/challenges/add-columns-with-grid-template-columns)
+12. [Add Rows with Grid Template Rows](https://www.freecodecamp.org/challenges/add-rows-with-grid-template-rows)
+13. [Use Css Grid Units To Change the Size of Columns and Rows](https://www.freecodecamp.org/challenges/use-css-grid-units-to-change-the-size-of-columns-and-rows)
+14. [Create A Column Gap Using Grid Column Gap](https://www.freecodecamp.org/challenges/create-a-column-gap-using-grid-column-gap)
+15. [Create A Row Gap Using Grid Row Gap](https://www.freecodecamp.org/challenges/create-a-row-gap-using-grid-row-gap)
+16. [Add Gaps Faster with Grid Gap](https://www.freecodecamp.org/challenges/add-gaps-faster-with-grid-gap)
+17. [Use Grid Column To Control Spacing](https://www.freecodecamp.org/challenges/use-grid-column-to-control-spacing)
+18. [Use Grid Row To Control Spacing](https://www.freecodecamp.org/challenges/use-grid-row-to-control-spacing)
+19. [Align An Item Horizontally Using Justify Self](https://www.freecodecamp.org/challenges/align-an-item-horizontally-using-justify-self)
+20. [Align An Item Vertically Using Align Self](https://www.freecodecamp.org/challenges/align-an-item-vertically-using-align-self)
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
