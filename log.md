@@ -135,6 +135,7 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 9. [Create Flexible Layouts Using Auto Fit](https://www.freecodecamp.org/challenges/create-flexible-layouts-using-auto-fit)
 10. [Use Media Queries To Create Responsive Layouts](https://www.freecodecamp.org/challenges/use-media-queries-to-create-responsive-layouts)
 11. [Create Grids Within Grids](https://www.freecodecamp.org/challenges/create-grids-within-grids)
-12. [Responsive Web Design Projects - Build a Tribute Page](https://codepen.io/emTr0/pen/Kjwqoe)
+12. [Build a Tribute Page](https://www.freecodecamp.org/challenges/build-a-tribute-page)
+13. [CodePen - Build a Tribute Page](https://codepen.io/emTr0/full/Kjwqoe)
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
