@@ -115,3 +115,26 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 20. [Align An Item Vertically Using Align Self](https://www.freecodecamp.org/challenges/align-an-item-vertically-using-align-self)
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
+
+### Day 5: June 11, Tuesday 
+
+**Today's Progress:** Today, I completed 7 challenges on freeCodeCamp. Yesterday, I completed 4. I also started working on my first project for the Responsive Web Design Certification, building a tribute page.
+
+**Thoughts:** I'm finally done with the first section of challenges! I'm very excited about my progress so far. For my first project of building a tribute page, I chose Keanu Reeves as the subject. I'm excited about Cyberpunk 2077 and am a huge fan of Keanu Reeves, and since those were some of the web topics I was viewing today, I decided to go with it. It will be a work in progress until it's complete so don't judge the CodePen based on what's there now. I'll keep updating this log as well as tweeting out my progress.
+
+**Link to work:** 
+
+1. [Align All Items Vertically Using Align Items](https://www.freecodecamp.org/challenges/align-all-items-vertically-using-align-items)
+2. [Align All Items Horizontally Using Justify Items](https://www.freecodecamp.org/challenges/align-all-items-horizontally-using-justify-items)
+3. [Divide the Grid Into An Area Template](https://www.freecodecamp.org/challenges/divide-the-grid-into-an-area-template)
+4. [Place Items In Grid Areas Using the Grid Area Property](https://www.freecodecamp.org/challenges/place-items-in-grid-areas-using-the-grid-area-property)
+5. [Use Grid Area Without Creating An Areas Template](https://www.freecodecamp.org/challenges/use-grid-area-without-creating-an-areas-template)
+6. [Reduce Repetition Using the Repeat Function](https://www.freecodecamp.org/challenges/reduce-repetition-using-the-repeat-function)
+7. [Limit Item Size Using the Minmax Function](https://www.freecodecamp.org/challenges/limit-item-size-using-the-minmax-function)
+8. [Create Flexible Layouts Using Auto Fill](https://www.freecodecamp.org/challenges/create-flexible-layouts-using-auto-fill)
+9. [Create Flexible Layouts Using Auto Fit](https://www.freecodecamp.org/challenges/create-flexible-layouts-using-auto-fit)
+10. [Use Media Queries To Create Responsive Layouts](https://www.freecodecamp.org/challenges/use-media-queries-to-create-responsive-layouts)
+11. [Create Grids Within Grids](https://www.freecodecamp.org/challenges/create-grids-within-grids)
+12. [Responsive Web Design Projects - Build a Tribute Page](https://codepen.io/emTr0/pen/Kjwqoe)
+
+Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
