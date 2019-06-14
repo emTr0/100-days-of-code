@@ -139,3 +139,28 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 13. [CodePen - Build a Tribute Page](https://codepen.io/emTr0/full/Kjwqoe)
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
+
+### Day 6: June 12, Wednesday 
+
+**Today's Progress:** I finished the Tribute Page and started working on the Survey Form project for freeCodeCamp.
+
+**Thoughts:** It's great seeing everything come together with these projects! I was able to finish the Tribute Page but I'm still tweaking it here and there to make it more responsive.
+
+**Link to work:** 
+
+1. [CodePen - Build a Tribute Page](https://codepen.io/emTr0/full/Kjwqoe)
+2. [CodePen - Survey Form](https://codepen.io/emTr0/full/rEVjVJ)
+
+Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
+
+### Day 7: June 13, Thursday 
+
+**Today's Progress:** Continued working on the Survey Form.
+
+**Thoughts:** This one was a little trickier and I had to do some Googling, looking back at FCC challenges, etc. The Survey Form is coming along though. I should be done with it in one more session.
+
+**Link to work:** 
+
+1. [CodePen - Survey Form](https://codepen.io/emTr0/full/rEVjVJ)
+
+Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
