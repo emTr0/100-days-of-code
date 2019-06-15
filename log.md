@@ -12,6 +12,7 @@
 1. []()
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
+
 -->
 
 ### Day 1: June 4, Tuesday
@@ -162,5 +163,18 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 **Link to work:** 
 
 1. [CodePen - Survey Form](https://codepen.io/emTr0/full/rEVjVJ)
+
+Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
+
+### Day 8: June 14, Friday 
+
+**Today's Progress:** I tweaked my Tribute Page project and completed my Survey Form project for freeCodeCamp.
+
+**Thoughts:** I remember why I enjoyed coding so much! Seeing something come into existence after putting in some work is worth the trial and error. This survey form definitely took some trial and error. I had to glance at the sample code a few times but I made sure I commented out portions and re-enabled them to understand what everything does. I'm getting more comfortable with the code formatting and just now switched to 2-space indentations since that seems to be the norm for JavaScript. For the survey form project, I created one seeking feedback to improve Twitch.
+
+**Link to work:** 
+
+1. [CodePen - Build a Tribute Page](https://codepen.io/emTr0/full/Kjwqoe)
+2. [CodePen - Survey Form](https://codepen.io/emTr0/full/rEVjVJ)
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
