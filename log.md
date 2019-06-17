@@ -178,3 +178,15 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 2. [CodePen - Survey Form](https://codepen.io/emTr0/full/rEVjVJ)
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
+
+### Day 9: June 16, Sunday 
+
+**Today's Progress:** Started working on the Product Langing Page project for freeCodeCamp.
+
+**Thoughts:** I decided to make a product langing page for learning JavaScript with the products being books you can buy from Amazon. I haven't gotten to the point of adding the products yet so depending on how it works out, this could change. I got half of the tests passing right now but there's still a lot of design work I need to complete to make it look good. This one will probably take 2-3 more days to complete depending on how much time I get in during each session.
+
+**Link to work:** 
+
+1. [CodePen - Product Langing Page](https://codepen.io/emTr0/full/pXgBpL)
+
+Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
