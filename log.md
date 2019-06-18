@@ -181,12 +181,25 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 
 ### Day 9: June 16, Sunday 
 
-**Today's Progress:** Started working on the Product Langing Page project for freeCodeCamp.
+**Today's Progress:** Started working on the Product Landing Page project for freeCodeCamp.
 
 **Thoughts:** I decided to make a product langing page for learning JavaScript with the products being books you can buy from Amazon. I haven't gotten to the point of adding the products yet so depending on how it works out, this could change. I got half of the tests passing right now but there's still a lot of design work I need to complete to make it look good. This one will probably take 2-3 more days to complete depending on how much time I get in during each session.
 
 **Link to work:** 
 
-1. [CodePen - Product Langing Page](https://codepen.io/emTr0/full/pXgBpL)
+1. [CodePen - Product Landing Page](https://codepen.io/emTr0/full/pXgBpL)
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
+
+### Day 10: June 17, Monday 
+
+**Today's Progress:** Continued working on the Product Landing Page project for freeCodeCamp.
+
+**Thoughts:** I almost finished this project but I've run into some CSS snags. I'm having trouble centering some things and getting things properly responsive. I've turned to the freeCodeCamp forum for some feedback. I'm still very proud of this project though. It took a lot more work and research than the others.
+
+**Link to work:** 
+
+1. [CodePen - Product Landing Page](https://codepen.io/emTr0/full/pXgBpL)
+
+Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
+
