@@ -207,12 +207,23 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 
 **Today's Progress:** Finished the Product Landing Page and started working on the Technical Documentation Page.
 
-**Thoughts:** With some help from the freeCodeCamp forum, I was able to fix that positioning issue I had with the Product Landing Page. I also started working on the Technical Documentation Page and chose to do a remixed version (according to the project requirements) of the [Phaser](https://phaser.io/) documentiation. It's not done yet and will probably take me another day or two.
+**Thoughts:** With some help from the freeCodeCamp forum, I was able to fix that positioning issue I had with the Product Landing Page. I also started working on the Technical Documentation Page and chose to do a remixed version (according to the project requirements) of the [Phaser](https://phaser.io/) documentation. It's not done yet and will probably take me another day or two.
 
 **Link to work:** 
 
 1. [CodePen - Product Landing Page](https://codepen.io/emTr0/full/pXgBpL)
-1. [CodePen - Technical Documentation Page](https://codepen.io/emTr0/full/OeRyyZ)
+2. [CodePen - Technical Documentation Page](https://codepen.io/emTr0/full/OeRyyZ)
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
 
+### Day 12: June 20, Thursday
+
+**Today's Progress:** Finished the Technical Documentation Page project for freeCodeCamp.
+
+**Thoughts:** One more project to do and I'll get the Responsive Web Design certification from freeCodeCamp! I'm very excited. As I mentioned in my last log update, I made a remixed version (according to the project requirements) of the [Phaser](https://phaser.io/) documentation. I used the colors in the Phaser v3 logo to pay tribute to Phaser. It gave the site an awesome, retro look. Everything seems to be working responsively the way it should. On to the last one for this certification!
+
+**Link to work:** 
+
+1. [CodePen - Technical Documentation Page](https://codepen.io/emTr0/full/OeRyyZ)
+
+Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
