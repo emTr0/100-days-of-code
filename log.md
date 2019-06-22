@@ -227,3 +227,16 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 1. [CodePen - Technical Documentation Page](https://codepen.io/emTr0/full/OeRyyZ)
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
+
+### Day 13: June 21, Friday
+
+**Today's Progress:** Started the Personal Portfolio project for freeCodeCamp.
+
+**Thoughts:** Last project! I made some progress but this one will take at least another day or two. I need to figure out how I'd like to display my projects. I see the code FCC used for their example so it will definitely help but I'm giving mine a more personal touch that matches the theme I've used for many of my profiles. I might even make this my emTr0.dev site for GitHub Pages.
+
+**Link to work:** 
+
+1. [CodePen - Personal Portfolio](https://codepen.io/emTr0/full/xoqzgp)
+
+Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
+
