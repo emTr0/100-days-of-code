@@ -240,3 +240,15 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
 
+### Day 14: June 22-23, Saturday-Sunday
+
+**Today's Progress:** Finished the Personal Portfolio project for freeCodeCamp.
+
+**Thoughts:** I finished the last project for the Responsive Web Design certification from freeCodeCamp! I can't believe it. Time flew. Onto the main goal...JavaScript!
+
+**Link to work:** 
+
+1. [CodePen - Personal Portfolio](https://codepen.io/emTr0/full/xoqzgp)
+
+Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
+
