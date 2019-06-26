@@ -252,3 +252,35 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
 
+### Day 15: June 24, Monday
+
+**Today's Progress:** Started the JavaScript Algorithms and Data Structures certification section of freeCodeCamp.
+
+**Thoughts:** Working with HTML and CSS was fun but this is what I really like. Making things happen in the background with code. This feels comfortably familiar to me since I switched from Python but I feel like I'll be able to do more of what I want with JS.
+
+**Link to work:** 
+
+1. [Comment Your JavaScript Code](https://www.freecodecamp.org/challenges/comment-your-javascript-code)
+2. [Declare JavaScript Variables](https://www.freecodecamp.org/challenges/declare-javascript-variables)
+3. [Storing Values with the Assignment Operator](https://www.freecodecamp.org/challenges/storing-values-with-the-assignment-operator)
+4. [Initializing Variables with the Assignment Operator](https://www.freecodecamp.org/challenges/initializing-variables-with-the-assignment-operator)
+5. [Understanding Uninitialized Variables](https://www.freecodecamp.org/challenges/understanding-uninitialized-variables)
+6. [Understanding Case Sensitivity In Variables](https://www.freecodecamp.org/challenges/understanding-case-sensitivity-in-variables)
+7. [Add Two Numbers with JavaScript](https://www.freecodecamp.org/challenges/add-two-numbers-with-javascript)
+8. [Subtract One Number From Another with JavaScript](https://www.freecodecamp.org/challenges/subtract-one-number-from-another-with-javascript)
+9. [Multiply Two Numbers with JavaScript](https://www.freecodecamp.org/challenges/multiply-two-numbers-with-javascript)
+10. [Divide One Number By Another with JavaScript](https://www.freecodecamp.org/challenges/divide-one-number-by-another-with-javascript)
+12. [Increment A Number with JavaScript](https://www.freecodecamp.org/challenges/increment-a-number-with-javascript)
+13. [Decrement A Number with JavaScript](https://www.freecodecamp.org/challenges/decrement-a-number-with-javascript)
+14. [Create Decimal Numbers with JavaScript](https://www.freecodecamp.org/challenges/create-decimal-numbers-with-javascript)
+15. [Multiply Two Decimals with JavaScript](https://www.freecodecamp.org/challenges/multiply-two-decimals-with-javascript)
+16. [Divide One Decimal By Another with JavaScript](https://www.freecodecamp.org/challenges/divide-one-decimal-by-another-with-javascript)
+17. [Finding A Remainder In JavaScript](https://www.freecodecamp.org/challenges/finding-a-remainder-in-javascript)
+18. [Compound Assignment with Augmented Addition](https://www.freecodecamp.org/challenges/compound-assignment-with-augmented-addition)
+19. [Compound Assignment with Augmented Subtraction](https://www.freecodecamp.org/challenges/compound-assignment-with-augmented-subtraction)
+20. [Compound Assignment with Augmented Multiplication](https://www.freecodecamp.org/challenges/compound-assignment-with-augmented-multiplication)
+21. [Compound Assignment with Augmented Division](https://www.freecodecamp.org/challenges/compound-assignment-with-augmented-division)
+22. [Declare String Variables](https://www.freecodecamp.org/challenges/declare-string-variables)
+23. [Escaping Literal Quotes In Strings](https://www.freecodecamp.org/challenges/escaping-literal-quotes-in-strings)
+
+Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
