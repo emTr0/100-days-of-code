@@ -284,3 +284,34 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 23. [Escaping Literal Quotes In Strings](https://www.freecodecamp.org/challenges/escaping-literal-quotes-in-strings)
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
+
+### Day 16: June 25-26, Tuesday-Wednesday
+
+**Today's Progress:** Started and continued working on the Basic JavaScript section in freeCodeCamp.
+
+**Thoughts:** Had to break this one up between two days. IRL things have me tired so I did what I could. This is the part of programming that I enjoy though. The creation and execution of code that makes things happen in the background. Web design with HTML and CSS was fun but I'm really excited to get started with JavaScript.
+
+**Link to work:** 
+
+1. [Quoting Strings with Single Quotes](https://www.freecodecamp.org/challenges/quoting-strings-with-single-quotes)
+2. [Escape Sequences In Strings](https://www.freecodecamp.org/challenges/escape-sequences-in-strings)
+3. [Concatenating Strings with Plus Operator](https://www.freecodecamp.org/challenges/concatenating-strings-with-plus-operator)
+4. [Concatenating Strings with the Plus Equals Operator]()
+5. [Constructing Strings with Variables](https://www.freecodecamp.org/challenges/constructing-strings-with-variables)
+6. [Appending Variables To Strings](https://www.freecodecamp.org/challenges/appending-variables-to-strings)
+7. [Find the Length of A String](https://www.freecodecamp.org/challenges/find-the-length-of-a-string)
+8. [Use Bracket Notation To Find the First Character In A String](https://www.freecodecamp.org/challenges/use-bracket-notation-to-find-the-first-character-in-a-string)
+9. [Understand String Immutability](https://www.freecodecamp.org/challenges/understand-string-immutability)
+10. [Use Bracket Notation To Find the Nth Character In A String](https://www.freecodecamp.org/challenges/use-bracket-notation-to-find-the-nth-character-in-a-string)
+11. [Use Bracket Notation To Find the Last Character In A String](https://www.freecodecamp.org/challenges/use-bracket-notation-to-find-the-last-character-in-a-string)
+12. [Use Bracket Notation To Find the Nth To Last Character In A String](https://www.freecodecamp.org/challenges/use-bracket-notation-to-find-the-nth-to-last-character-in-a-string)
+13. [Word Blanks](https://www.freecodecamp.org/challenges/word-blanks)
+14. [Store Multiple Values In One Variable Using JavaScript Arrays](https://www.freecodecamp.org/challenges/store-multiple-values-in-one-variable-using-javascript-arrays)
+15. [Nest One Array Within Another Array](https://www.freecodecamp.org/challenges/nest-one-array-within-another-array)
+16. [Access Array Data with Indexes](https://www.freecodecamp.org/challenges/access-array-data-with-indexes)
+17. [Modify Array Data with Indexes](https://www.freecodecamp.org/challenges/modify-array-data-with-indexes)
+18. [Access Multi Dimensional Arrays with Indexes](https://www.freecodecamp.org/challenges/access-multi-dimensional-arrays-with-indexes)
+19. [Manipulate Arrays with Push](https://www.freecodecamp.org/challenges/manipulate-arrays-with-push)
+20. [Manipulate Arrays with Pop](https://www.freecodecamp.org/challenges/manipulate-arrays-with-pop)
+
+Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
