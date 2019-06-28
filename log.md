@@ -324,6 +324,30 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 
 **Link to work:** 
 
+1. [Manipulate Arrays with Shift](https://www.freecodecamp.org/challenges/manipulate-arrays-with-shift)
+2. [Manipulate Arrays with Unshift](https://www.freecodecamp.org/challenges/manipulate-arrays-with-unshift)
+3. [Shopping List](https://www.freecodecamp.org/challenges/shopping-list)
+4. [Write Reusable JavaScript with Functions](https://www.freecodecamp.org/challenges/write-reusable-javascript-with-functions)
+5. [Passing Values To Functions with Arguments](https://www.freecodecamp.org/challenges/passing-values-to-functions-with-arguments)
+6. [Global Scope and Functions](https://www.freecodecamp.org/challenges/global-scope-and-functions)
+7. [Local Scope and Functions](https://www.freecodecamp.org/challenges/local-scope-and-functions)
+8. [Global Vs. Local Scope In Functions](https://www.freecodecamp.org/challenges/global-vs.-local-scope-in-functions)
+9. [Return A Value From A Function with Return](https://www.freecodecamp.org/challenges/return-a-value-from-a-function-with-return)
+10. [Understanding Undefined Value Returned From A Function](https://www.freecodecamp.org/challenges/understanding-undefined-value-returned-from-a-function)
+11. [Assignment with A Returned Value](https://www.freecodecamp.org/challenges/assignment-with-a-returned-value)
+12. [Stand In Line](https://www.freecodecamp.org/challenges/stand-in-line)
+13. [Understanding Boolean Values](https://www.freecodecamp.org/challenges/understanding-boolean-values)
+14. [Use Conditional Logic with If Statements](https://www.freecodecamp.org/challenges/use-conditional-logic-with-if-statements)
+15. [Comparison with the Equality Operator](https://www.freecodecamp.org/challenges/comparison-with-the-equality-operator)
+16. [Comparison with the Strict Equality Operator](https://www.freecodecamp.org/challenges/comparison-with-the-strict-equality-operator)
+17. [Practice Comparing Different Values](https://www.freecodecamp.org/challenges/practice-comparing-different-values)
+18. [Comparison with the Inequality Operator](https://www.freecodecamp.org/challenges/comparison-with-the-inequality-operator)
+19. [Comparison with the Strict Inequality Operator](https://www.freecodecamp.org/challenges/comparison-with-the-strict-inequality-operator)
+20. [Comparison with the Greater Than Operator](https://www.freecodecamp.org/challenges/comparison-with-the-greater-than-operator)
+21. [Comparison with the Greater Than Or Equal To Operator](https://www.freecodecamp.org/challenges/comparison-with-the-greater-than-or-equal-to-operator)
+22. [Comparison with the Less Than Operator](https://www.freecodecamp.org/challenges/comparison-with-the-less-than-operator)
+23. [Comparison with the Less Than Or Equal To Operator](https://www.freecodecamp.org/challenges/comparison-with-the-less-than-or-equal-to-operator)
+24. [Comparisons with the Logical and Operator](https://www.freecodecamp.org/challenges/comparisons-with-the-logical-and-operator)
 
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
