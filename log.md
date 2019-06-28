@@ -315,3 +315,38 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 20. [Manipulate Arrays with Pop](https://www.freecodecamp.org/challenges/manipulate-arrays-with-pop)
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
+
+### Day 17: June 27-28, Thursday-Friday
+
+**Today's Progress:** Continued working on the Basic JavaScript section of the freeCodeCamp curriculum.
+
+**Thoughts:** I don't have many thoughts for what I've learned during these days. It's pretty much a review on what I learned with Python except I'm learning how to do it with JavaScript. Gotta get through the basics!
+
+**Link to work:** 
+
+1. [Manipulate Arrays with Shift](https://www.freecodecamp.org/challenges/manipulate-arrays-with-shift)
+2. [Manipulate Arrays with Unshift](https://www.freecodecamp.org/challenges/manipulate-arrays-with-unshift)
+3. [Shopping List](https://www.freecodecamp.org/challenges/shopping-list)
+4. [Write Reusable JavaScript with Functions](https://www.freecodecamp.org/challenges/write-reusable-javascript-with-functions)
+5. [Passing Values To Functions with Arguments](https://www.freecodecamp.org/challenges/passing-values-to-functions-with-arguments)
+6. [Global Scope and Functions](https://www.freecodecamp.org/challenges/global-scope-and-functions)
+7. [Local Scope and Functions](https://www.freecodecamp.org/challenges/local-scope-and-functions)
+8. [Global Vs. Local Scope In Functions](https://www.freecodecamp.org/challenges/global-vs.-local-scope-in-functions)
+9. [Return A Value From A Function with Return](https://www.freecodecamp.org/challenges/return-a-value-from-a-function-with-return)
+10. [Understanding Undefined Value Returned From A Function](https://www.freecodecamp.org/challenges/understanding-undefined-value-returned-from-a-function)
+12. [Assignment with A Returned Value](https://www.freecodecamp.org/challenges/assignment-with-a-returned-value)
+13. [Stand In Line](https://www.freecodecamp.org/challenges/stand-in-line)
+14. [Understanding Boolean Values](https://www.freecodecamp.org/challenges/understanding-boolean-values)
+15. [Use Conditional Logic with If Statements](https://www.freecodecamp.org/challenges/use-conditional-logic-with-if-statements)
+16. [Comparison with the Equality Operator](https://www.freecodecamp.org/challenges/comparison-with-the-equality-operator)
+17. [Comparison with the Strict Equality Operator](https://www.freecodecamp.org/challenges/comparison-with-the-strict-equality-operator)
+18. [Practice Comparing Different Values](https://www.freecodecamp.org/challenges/practice-comparing-different-values)
+19. [Comparison with the Inequality Operator](https://www.freecodecamp.org/challenges/comparison-with-the-inequality-operator)
+20. [Comparison with the Strict Inequality Operator](https://www.freecodecamp.org/challenges/comparison-with-the-strict-inequality-operator)
+21. [Comparison with the Greater Than Operator](https://www.freecodecamp.org/challenges/comparison-with-the-greater-than-operator)
+22. [Comparison with the Greater Than Or Equal To Operator](https://www.freecodecamp.org/challenges/comparison-with-the-greater-than-or-equal-to-operator)
+23. [Comparison with the Less Than Operator](https://www.freecodecamp.org/challenges/comparison-with-the-less-than-operator)
+24. [Comparison with the Less Than Or Equal To Operator](https://www.freecodecamp.org/challenges/comparison-with-the-less-than-or-equal-to-operator)
+25. [Comparisons with the Logical and Operator](https://www.freecodecamp.org/challenges/comparisons-with-the-logical-and-operator)
+
+Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
