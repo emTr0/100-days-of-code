@@ -351,3 +351,31 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
+
+### Day 18: June 30, Sunday
+
+**Today's Progress:** Continued working on the Basic JavaScript section of the freeCodeCamp curriculum.
+
+**Thoughts:** Just grinding through this section! Should be done with it in another day or two. Then on to ES6.
+
+**Link to work:** 
+
+1. [Comparisons with the Logical Or Operator](https://www.freecodecamp.org/challenges/comparisons-with-the-logical-or-operator)
+2. [Introducing Else Statements](https://www.freecodecamp.org/challenges/introducing-else-statements)
+3. [Introducing Else If Statements](https://www.freecodecamp.org/challenges/introducing-else-if-statements)
+4. [Logical Order In If Else Statements](https://www.freecodecamp.org/challenges/logical-order-in-if-else-statements)
+5. [Chaining If Else Statements](https://www.freecodecamp.org/challenges/chaining-if-else-statements)
+6. [Golf Code](https://www.freecodecamp.org/challenges/golf-code)
+7. [Selecting From Many Options with Switch Statements](https://www.freecodecamp.org/challenges/selecting-from-many-options-with-switch-statements)
+8. [Adding A Default Option In Switch Statements](https://www.freecodecamp.org/challenges/adding-a-default-option-in-switch-statements)
+9. [Multiple Identical Options In Switch Statements](https://www.freecodecamp.org/challenges/multiple-identical-options-in-switch-statements)
+10. [Replacing If Else Chains with Switch](https://www.freecodecamp.org/challenges/replacing-if-else-chains-with-switch)
+11. [Returning Boolean Values From Functions](https://www.freecodecamp.org/challenges/returning-boolean-values-from-functions)
+12. [Return Early Pattern for Functions](https://www.freecodecamp.org/challenges/return-early-pattern-for-functions)
+13. [Counting Cards](https://www.freecodecamp.org/challenges/counting-cards)
+14. [Build JavaScript Objects](https://www.freecodecamp.org/challenges/build-javascript-objects)
+15. [Accessing Object Properties with Dot Notation](https://www.freecodecamp.org/challenges/accessing-object-properties-with-dot-notation)
+16. [Accessing Object Properties with Bracket Notation](https://www.freecodecamp.org/challenges/accessing-object-properties-with-bracket-notation)
+17. [Accessing Object Properties with Variables](https://www.freecodecamp.org/challenges/accessing-object-properties-with-variables)
+
+Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
