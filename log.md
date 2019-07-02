@@ -379,3 +379,29 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 17. [Accessing Object Properties with Variables](https://www.freecodecamp.org/challenges/accessing-object-properties-with-variables)
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
+
+### Day 19: July 1, Monday
+
+**Today's Progress:** Continued working on the Basic JavaScript section of the freeCodeCamp curriculum.
+
+**Thoughts:** Almost done with this section. This bunch of challenges took a bit longer. It's ok though because now I'm getting into the fun stuff like JSON and management of data. Should be done with the Basic JavaScript section after tomorrow night!
+
+**Link to work:** 
+
+1. [Updating Object Properties](https://www.freecodecamp.org/challenges/updating-object-properties)
+2. [Add New Properties To A JavaScript Object](https://www.freecodecamp.org/challenges/add-new-properties-to-a-javascript-object)
+3. [Delete Properties From A JavaScript Object](https://www.freecodecamp.org/challenges/delete-properties-from-a-javascript-object)
+4. [Using Objects for Lookups](https://www.freecodecamp.org/challenges/using-objects-for-lookups)
+5. [Testing Objects for Properties](https://www.freecodecamp.org/challenges/testing-objects-for-properties)
+6. [Manipulating Complex Objects](https://www.freecodecamp.org/challenges/manipulating-complex-objects)
+7. [Accessing Nested Objects](https://www.freecodecamp.org/challenges/accessing-nested-objects)
+8. [Accessing Nested Arrays](https://www.freecodecamp.org/challenges/accessing-nested-arrays)
+9. [Record Collection](https://www.freecodecamp.org/challenges/record-collection)
+10. [Iterate with JavaScript While Loops](https://www.freecodecamp.org/challenges/iterate-with-javascript-while-loops)
+11. [Iterate with JavaScript for Loops](https://www.freecodecamp.org/challenges/iterate-with-javascript-for-loops)
+12. [Iterate Odd Numbers with A for Loop](https://www.freecodecamp.org/challenges/iterate-odd-numbers-with-a-for-loop)
+13. [Count Backwards with A for Loop](https://www.freecodecamp.org/challenges/count-backwards-with-a-for-loop)
+14. [Iterate Through An Array with A for Loop](https://www.freecodecamp.org/challenges/iterate-through-an-array-with-a-for-loop)
+15. [Nesting for Loops](https://www.freecodecamp.org/challenges/nesting-for-loops)
+
+Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
