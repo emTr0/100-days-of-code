@@ -15,7 +15,7 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 
 -->
 
-### Day 1: June 4, Tuesday
+### Day 0: June 4, Tuesday
 
 **Today's Progress:** I completed 8 challenges in freeCodeCamp.
 
@@ -33,7 +33,7 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
 
-### Day 2: June  6, Thursday
+### Day 1: June  6, Thursday
 
 **Today's Progress:** I completed 10 challenges in freeCodeCamp.
 
@@ -53,7 +53,7 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
 
-### Day 3: June 7, Friday 
+### Day 2: June 7, Friday 
 
 **Today's Progress:** I completed 22 challenges in freeCodeCamp.
 
@@ -86,7 +86,7 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
 
-### Day 4: June 9, Sunday 
+### Day 3: June 9, Sunday 
 
 **Today's Progress:** I finished 20 challenges on freeCodeCamp.
 
@@ -117,7 +117,7 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
 
-### Day 5: June 11, Tuesday 
+### Day 4: June 11, Tuesday 
 
 **Today's Progress:** Today, I completed 7 challenges on freeCodeCamp. Yesterday, I completed 4. I also started working on my first project for the Responsive Web Design Certification, building a tribute page.
 
@@ -141,7 +141,7 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
 
-### Day 6: June 12, Wednesday 
+### Day 5: June 12, Wednesday 
 
 **Today's Progress:** I finished the Tribute Page and started working on the Survey Form project for freeCodeCamp.
 
@@ -154,7 +154,7 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
 
-### Day 7: June 13, Thursday 
+### Day 6: June 13, Thursday 
 
 **Today's Progress:** Continued working on the Survey Form.
 
@@ -166,7 +166,7 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
 
-### Day 8: June 14, Friday 
+### Day 7: June 14, Friday 
 
 **Today's Progress:** I tweaked my Tribute Page project and completed my Survey Form project for freeCodeCamp.
 
@@ -179,7 +179,7 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
 
-### Day 9: June 16, Sunday 
+### Day 8: June 16, Sunday 
 
 **Today's Progress:** Started working on the Product Landing Page project for freeCodeCamp.
 
@@ -191,7 +191,7 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
 
-### Day 10: June 17, Monday 
+### Day 9: June 17, Monday 
 
 **Today's Progress:** Continued working on the Product Landing Page project for freeCodeCamp.
 
@@ -203,7 +203,7 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
 
-### Day 11: June 19, Wednesday
+### Day 10: June 19, Wednesday
 
 **Today's Progress:** Finished the Product Landing Page and started working on the Technical Documentation Page.
 
@@ -216,7 +216,7 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
 
-### Day 12: June 20, Thursday
+### Day 11: June 20, Thursday
 
 **Today's Progress:** Finished the Technical Documentation Page project for freeCodeCamp.
 
@@ -228,7 +228,7 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
 
-### Day 13: June 21, Friday
+### Day 12: June 21, Friday
 
 **Today's Progress:** Started the Personal Portfolio project for freeCodeCamp.
 
@@ -240,7 +240,7 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
 
-### Day 14: June 22-23, Saturday-Sunday
+### Day 13: June 22-23, Saturday-Sunday
 
 **Today's Progress:** Finished the Personal Portfolio project for freeCodeCamp.
 
@@ -252,7 +252,7 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
 
-### Day 15: June 24, Monday
+### Day 14: June 24, Monday
 
 **Today's Progress:** Started the JavaScript Algorithms and Data Structures certification section of freeCodeCamp.
 
@@ -285,7 +285,7 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
 
-### Day 16: June 25-26, Tuesday-Wednesday
+### Day 15: June 25-26, Tuesday-Wednesday
 
 **Today's Progress:** Started and continued working on the Basic JavaScript section in freeCodeCamp.
 
@@ -316,7 +316,7 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
 
-### Day 17: June 27-28, Thursday-Friday
+### Day 16: June 27-28, Thursday-Friday
 
 **Today's Progress:** Continued working on the Basic JavaScript section of the freeCodeCamp curriculum.
 
@@ -352,7 +352,7 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
 
-### Day 18: June 30, Sunday
+### Day 17: June 30, Sunday
 
 **Today's Progress:** Continued working on the Basic JavaScript section of the freeCodeCamp curriculum.
 
@@ -380,7 +380,7 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
 
-### Day 19: July 1, Monday
+### Day 18: July 1, Monday
 
 **Today's Progress:** Continued working on the Basic JavaScript section of the freeCodeCamp curriculum.
 
@@ -403,5 +403,26 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 13. [Count Backwards with A for Loop](https://www.freecodecamp.org/challenges/count-backwards-with-a-for-loop)
 14. [Iterate Through An Array with A for Loop](https://www.freecodecamp.org/challenges/iterate-through-an-array-with-a-for-loop)
 15. [Nesting for Loops](https://www.freecodecamp.org/challenges/nesting-for-loops)
+
+Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
+
+### Day 19: July 2-3, Tuesday-Wednesday
+
+**Today's Progress:** Continued and finished the Basic JavaScript section of the freeCodeCamp curriculum. Started the ES6 section.
+
+**Thoughts:** Got the basics taken care of with JavaScript! The last few challenges were more in depth and involved. So far I'm not being turned off by anything and I'm still enjoying learning with freeCodeCamp. I hope to finish this certification section within a week or two.
+
+**Link to work:** 
+
+1. [Iterate with JavaScript Do...while Loops](https://www.freecodecamp.org/challenges/iterate-with-javascript-do...while-loops)
+2. [Profile Lookup](https://www.freecodecamp.org/challenges/profile-lookup)
+3. [Generate Random Fractions with JavaScript](https://www.freecodecamp.org/challenges/generate-random-fractions-with-javascript)
+4. [Generate Random Whole Numbers with JavaScript](https://www.freecodecamp.org/challenges/generate-random-whole-numbers-with-javascript)
+5. [Generate Random Whole Numbers Within A Range](https://www.freecodecamp.org/challenges/generate-random-whole-numbers-within-a-range)
+6. [Use the Parseint Function](https://www.freecodecamp.org/challenges/use-the-parseint-function)
+7. [Use the Parseint Function with A Radix](https://www.freecodecamp.org/challenges/use-the-parseint-function-with-a-radix)
+8. [Use the Conditional Ternary Operator](https://www.freecodecamp.org/challenges/use-the-conditional-ternary-operator)
+9. [Use Multiple Conditional Ternary Operators](https://www.freecodecamp.org/challenges/use-multiple-conditional-ternary-operators)
+10. [Explore Differences Between the Var and Let Keywords](https://www.freecodecamp.org/challenges/explore-differences-between-the-var-and-let-keywords)
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
