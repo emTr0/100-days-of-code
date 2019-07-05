@@ -426,3 +426,24 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 10. [Explore Differences Between the Var and Let Keywords](https://www.freecodecamp.org/challenges/explore-differences-between-the-var-and-let-keywords)
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
+
+### Day 20: July 4, Thursday
+
+**Today's Progress:** Continued working on the ES6 section of freeCodeCamp.
+
+**Thoughts:** Happy 4th of July! I spread out my work today since I was doing a bunch of running around but I got a decent amount done. I like that the challenges are increasing in difficulty. It makes the learning stick when you have that lightbulb moment after working so hard to figure one out.
+
+**Link to work:** 
+
+1. [Compare Scopes of the Var and Let Keywords](https://www.freecodecamp.org/challenges/compare-scopes-of-the-var-and-let-keywords)
+2. [Declare A Read Only Variable with the Const Keyword](https://www.freecodecamp.org/challenges/declare-a-read-only-variable-with-the-const-keyword)
+3. [Mutate An Array Declared with Const](https://www.freecodecamp.org/challenges/mutate-an-array-declared-with-const)
+4. [Prevent Object Mutation](https://www.freecodecamp.org/challenges/prevent-object-mutation)
+5. [Use Arrow Functions To Write Concise Anonymous Functions](https://www.freecodecamp.org/challenges/use-arrow-functions-to-write-concise-anonymous-functions)
+6. [Write Arrow Functions with Parameters](https://www.freecodecamp.org/challenges/write-arrow-functions-with-parameters)
+7. [Write Higher Order Arrow Functions](https://www.freecodecamp.org/challenges/write-higher-order-arrow-functions)
+8. [Set Default Parameters for Your Functions](https://www.freecodecamp.org/challenges/set-default-parameters-for-your-functions)
+9. [Use the Rest Operator with Function Parameters](https://www.freecodecamp.org/challenges/use-the-rest-operator-with-function-parameters)
+10. [Use the Spread Operator To Evaluate Arrays In Place](https://www.freecodecamp.org/challenges/use-the-spread-operator-to-evaluate-arrays-in-place)
+
+Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
