@@ -447,3 +447,19 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 10. [Use the Spread Operator To Evaluate Arrays In Place](https://www.freecodecamp.org/challenges/use-the-spread-operator-to-evaluate-arrays-in-place)
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
+
+### Day 21: July 6, Saturday
+
+**Today's Progress:** Continued working on the ES6 section of freeCodeCamp.
+
+**Thoughts:** The challenges are taking longer to complete because I find myself looking back at references for refreshers on how certain things are done. I wonder if that means I'm not effectively learning or that's normal and expected once you get to the more in depth content. Also I'm tired and found myself staring blankly at the screen a few times XD. I might need to review these challenges tomorrow to make sure they stuck. I didn't have the energy to do more than I did below, unfortunately.
+
+**Link to work:** 
+
+1. [Use Destructuring Assignment To Assign Variables From Objects](https://www.freecodecamp.org/challenges/use-destructuring-assignment-to-assign-variables-from-objects)
+2. [Use Destructuring Assignment To Assign Variables From Nested Objects](https://www.freecodecamp.org/challenges/use-destructuring-assignment-to-assign-variables-from-nested-objects)
+3. [Use Destructuring Assignment To Assign Variables From Arrays](https://www.freecodecamp.org/challenges/use-destructuring-assignment-to-assign-variables-from-arrays)
+4. [Use Destructuring Assignment with the Rest Operator To Reassign Array Elements](https://www.freecodecamp.org/challenges/use-destructuring-assignment-with-the-rest-operator-to-reassign-array-elements)
+5. [Use Destructuring Assignment To Pass An Object As A Functions Parameters](https://www.freecodecamp.org/challenges/use-destructuring-assignment-to-pass-an-object-as-a-functions-parameters)
+
+Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
