@@ -463,3 +463,13 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 5. [Use Destructuring Assignment To Pass An Object As A Functions Parameters](https://www.freecodecamp.org/challenges/use-destructuring-assignment-to-pass-an-object-as-a-functions-parameters)
 
 Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the full challenge timeline, and to see what else I've completed.
+
+### Day 22: July 8, Monday
+
+**Today's Progress:** Started Udemy course "Git Complete: The definitive, step-by-step guide to Git".
+
+**Thoughts:** I decided to take a step back from learning with freeCodeCamp and start a Git course on Udemy. I know I've already used it a bunch but I still don't know everything and I could definitely use a refresher for a lot of the command line usage, as well as the overall usage of Git for version control. I'll probably complete this course and then re-evaluate whether to continue freeCodeCamp, or start another basic JavaScript course. I think I'd also benefit from starting and completing another JavaScript course to reinforce the basics before continuing onto more advanced concepts with freeCodeCamp.
+
+**Link to work:** 
+
+1. [Git Complete: The definitive, step-by-step guide to Git](https://click.linksynergy.com/link?id=0EQCBy/cNg4&offerid=507388.221674&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgit-complete%2F)
