@@ -473,3 +473,14 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 **Link to work:** 
 
 1. [Git Complete: The definitive, step-by-step guide to Git](https://click.linksynergy.com/link?id=0EQCBy/cNg4&offerid=507388.221674&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgit-complete%2F) (Sections 1-4)
+
+### Days 23-24: July 9-10, Tuesday-Wednesday
+
+**Today's Progress:** Continued Udemy course "Git Complete: The definitive, step-by-step guide to Git".
+
+**Thoughts:** Taking this course was a great idea. I was reminded of some tips and tricks and am learning a bunch of new things. Shouldn't take much longer to complete so I can continue learning JavaScript.
+
+**Link to work:** 
+
+1. [Git Complete: The definitive, step-by-step guide to Git](https://click.linksynergy.com/link?id=0EQCBy/cNg4&offerid=507388.221674&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgit-complete%2F) (Sections 5-6)
+
