@@ -493,3 +493,13 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 **Link to work:** 
 
 1. [Git Complete: The definitive, step-by-step guide to Git](https://click.linksynergy.com/link?id=0EQCBy/cNg4&offerid=507388.221674&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgit-complete%2F) (Sections 7-9)
+
+### Day 26: July 14, Sunday
+
+**Today's Progress:** Finished Udemy course "Git Complete: The definitive, step-by-step guide to Git".
+
+**Thoughts:** I finished it! There's no way I'll retain all those commands but I'll definitely have a good foundation and know where to look if I run into problems. I guess that's why there are so many cheat sheets for programming languages and topics.
+
+**Link to work:** 
+
+1. [Git Complete: The definitive, step-by-step guide to Git](https://click.linksynergy.com/link?id=0EQCBy/cNg4&offerid=507388.221674&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgit-complete%2F) ([Certificate](https://www.udemy.com/certificate/UC-21D3H8ON/))
