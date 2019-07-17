@@ -503,3 +503,13 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 **Link to work:** 
 
 1. [Git Complete: The definitive, step-by-step guide to Git](https://click.linksynergy.com/link?id=0EQCBy/cNg4&offerid=507388.221674&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgit-complete%2F) ([Certificate](https://www.udemy.com/certificate/UC-21D3H8ON/))
+
+### Day 27: July 15, Monday
+
+**Today's Progress:** Started Udemy course "The Web Developer Bootcamp".
+
+**Thoughts:** Back to learning web development, specifically all things JavaScript! Started this course by Colt Steele on Udemy. It's holding my attention so far so that's good. Again, going through the basics will help reinforce the concepts and then I'll continue on to the more involved material.
+
+**Link to work:** 
+
+1. [The Web Developer Bootcamp](https://click.linksynergy.com/link?id=0EQCBy/cNg4&offerid=507388.625204&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fthe-web-developer-bootcamp%2F) (Sections 1-3)
