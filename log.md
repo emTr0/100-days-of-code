@@ -573,3 +573,23 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 **Link to work:** 
 
 1. [The Web Developer Bootcamp](https://click.linksynergy.com/link?id=0EQCBy/cNg4&offerid=507388.625204&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fthe-web-developer-bootcamp%2F) (Section 7)
+
+### Day 34: July 28, Sunday
+
+**Today's Progress:** Continued Udemy course "The Web Developer Bootcamp".
+
+**Thoughts:** Started Bootstrap!
+
+**Link to work:** 
+
+1. [The Web Developer Bootcamp](https://click.linksynergy.com/link?id=0EQCBy/cNg4&offerid=507388.625204&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fthe-web-developer-bootcamp%2F) (Section 8)
+
+### Day 35: July 30, Tuesday
+
+**Today's Progress:** Continued Udemy course "The Web Developer Bootcamp".
+
+**Thoughts:** Still working through Bootstrap content.
+
+**Link to work:** 
+
+1. [The Web Developer Bootcamp](https://click.linksynergy.com/link?id=0EQCBy/cNg4&offerid=507388.625204&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fthe-web-developer-bootcamp%2F) (Section 8-9)
