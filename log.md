@@ -593,3 +593,13 @@ Check out my [freeCodeCamp profile](https://www.freecodecamp.org/emtr0) for the 
 **Link to work:** 
 
 1. [The Web Developer Bootcamp](https://click.linksynergy.com/link?id=0EQCBy/cNg4&offerid=507388.625204&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fthe-web-developer-bootcamp%2F) (Section 8-9)
+
+### Day 36: August 1, Thursday
+
+**Today's Progress:** Continued Udemy course "The Web Developer Bootcamp".
+
+**Thoughts:** Flexbox and Layout in Bootstrap 4!
+
+**Link to work:** 
+
+1. [The Web Developer Bootcamp](https://click.linksynergy.com/link?id=0EQCBy/cNg4&offerid=507388.625204&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fthe-web-developer-bootcamp%2F) (Section 9)
